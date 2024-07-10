@@ -8,6 +8,7 @@
 /* Generics */
 html {
     overflow: hidden;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -39,11 +40,6 @@ a {
 }
 
 /* Utils */
-
-.border {
-    border: 2px dashed black;
-}
-
 .full-page {
     position: relative;
     height: 100vh;
